@@ -1,2 +1,3 @@
 # HTB-notes
-notes and writeups for Hack The Box machines
+Notes, scripts, and summaries are included in each machine folder. 
+Strings that represent `user` and `root` flags are note included.
